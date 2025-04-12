@@ -1,6 +1,5 @@
-## Installation Instructions
-
-Before using this code, you need to install the following Python packages. You can do so by running the commands below:
+🔧 Installation Requirements
+Before running this code, make sure you have installed the following Python packages. You can install them using pip:
 
 ```bash
 !pip install yfinance
@@ -8,4 +7,6 @@ Before using this code, you need to install the following Python packages. You c
 !pip install pyportfolioopt
 !pip install ta
 !pip install pandas_datareader
-
+```
+These libraries are essential for data retrieval, portfolio optimization, technical analysis, and performance reporting.
+Make sure your environment supports pip commands (e.g., Jupyter Notebook, Google Colab, or local Python environment).
